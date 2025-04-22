@@ -12,3 +12,4 @@ client/public/sitemap.xml
 .terraform.lock.hcl
 ".env" 
 ".env" 
+".env" 
